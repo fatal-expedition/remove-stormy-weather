@@ -5,6 +5,6 @@
     <!-- boost most common weather to take the place of the storm we're removing -->
     <set xpath="/worldgeneration/biomes/biome/weather[@name='snow' and @prob='40']/@prob">48</set>
     <set xpath="/worldgeneration/biomes/biome/weather[@name='rain' and @prob='7']/@prob">10</set>
-    <set xpath="/worldgeneration/biomes/biome/weather[@name='rain' and @prob='5']/@prob">13</set>
+    <set xpath="/worldgeneration/biomes/biome/weather[@name='rain' and @prob='8']/@prob">13</set>
     <set xpath="/worldgeneration/biomes/biome/weather[@name='rain' and @prob='15']/@prob">20</set>
 </config>
