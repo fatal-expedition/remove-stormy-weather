@@ -3,7 +3,7 @@
         <Name value="Remove Stormy Weather" />
         <Description value="Remove the Stormy Weather Lightning Flashes for Accessibility Reasons" />
         <Author value="Jonathan Robertson" />
-        <Version value="1.0.2" />
+        <Version value="1.0.3" />
         <Website value="https://github.com/fatal-expedition/remove-stormy-weather" />
     </ModInfo>
 </xml>
