@@ -1,9 +1,9 @@
 <xml>
-    <ModInfo>
-        <Name value="Remove Stormy Weather" />
-        <Description value="Remove the Stormy Weather Lightning Flashes for Accessibility Reasons" />
-        <Author value="Jonathan Robertson" />
-        <Version value="1.0.3" />
-        <Website value="https://github.com/fatal-expedition/remove-stormy-weather" />
+    <Name value="kanaverum-remove-stormy-weather" />
+    <DisplayName value="Remove Stormy Weather" />
+    <Version value="2.0.0" />
+    <Description value="Remove the Stormy Weather Lightning Flashes for Accessibility Reasons" />
+    <Author value="Jonathan Robertson (Kanaverum)" />
+    <Website value="https://github.com/jonathan-robertson/remove-stormy-weather" />
     </ModInfo>
 </xml>
